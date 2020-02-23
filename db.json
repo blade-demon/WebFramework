@@ -9,6 +9,16 @@
       "id": 1,
       "name": "New name",
       "age": 0
+    },
+    {
+      "name": "One New name",
+      "age": 0,
+      "id": 2
+    },
+    {
+      "name": "One New name",
+      "age": 0,
+      "id": 3
     }
   ]
 }
