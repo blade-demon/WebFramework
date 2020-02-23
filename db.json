@@ -1,14 +1,14 @@
 {
-	"users": [
-		{
-			"id": 0,
-			"name": "Andrew",
-			"age": 20
-		},
-		{
-			"id": 1,
-			"name": "John Papa",
-			"age": 20
-		}
-	]
+  "users": [
+    {
+      "id": 0,
+      "name": "Andrew",
+      "age": 20
+    },
+    {
+      "id": 1,
+      "name": "New name",
+      "age": 0
+    }
+  ]
 }
